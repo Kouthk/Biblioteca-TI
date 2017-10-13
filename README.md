@@ -1,6 +1,7 @@
 ### Livros sobre Programação, pentest, linux
 ### Android
 * [K41 @ Desenvolvimento Mobile com Android](http://www.k19.com.br/downloads/apostilas/java/k19-k41-desenvolvimento-mobile-com-android)
+* [Android Cookbook](ftp://ftp.micronet-rostov.ru/linux-support/books/programming/Mobile-Apps/[O%60Reilly]%20-%20Android%20Cookbook%20(2012)%20-%20[Darwin].pdf)
 
 
 ### C
