@@ -34,6 +34,7 @@
 ### JavaScript
 * [Eloquente JavaScript](http://braziljs.github.io/eloquente-javascript/)
 * [AngularJS - Loiane](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G)
+* [ES6 for beginners](https://codeburst.io/es6-tutorial-for-beginners-5f3c4e7960be)
 
 ### Perl
 * [Perl básico - Heitor Gouvêa](https://github.com/GouveaHeitor/Perl-Brasil/blob/master/apostilas/perl-basico.pdf)
