@@ -1,6 +1,6 @@
 ### Livros sobre Programação, pentest, linux
 ### Android
-* [K41 @ Desenvolvimento Mobile com Android](http://www.k19.com.br/downloads/apostilas/java/k19-k41-desenvolvimento-mobile-com-
+* [K41 @ Desenvolvimento Mobile com Android](http://www.k19.com.br/downloads/apostilas/java/k19-k41-desenvolvimento-mobile-com-)
 
 
 ### C
@@ -16,6 +16,8 @@
 ### Java
 * [Introdução a Ciência da Computação com Java](http://ccsl.ime.usp.br/files/books/intro-java-cc.pdf)
 * [Java e Orientação a Objetos](https://www.caelum.com.br/apostila-java-orientacao-objetos/)
+* [Maior curso de Java online gratuito - DEVDojo](https://www.youtube.com/watch?v=kkOSweUhGZM&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL)
+* [Java - Loiane](https://www.youtube.com/watch?v=LnORjqZUMIQ&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r)
 
 ### Python
 * [Python para desenvolvedores](https://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf)
@@ -27,8 +29,8 @@
 * [Jogos com Pygame](https://www.youtube.com/playlist?list=PLxNM4ef1Bpxhk5fiUABgLqGig9kNQZ7-k)
 * [Curso de Python Orientado a Objetos](https://www.youtube.com/playlist?list=PLxNM4ef1Bpxhm8AfK1nDMWPDYXtmVQN-z)
 * [Python e Django](https://osantana.me/curso-de-python-e-django/)
-* [Tutorial Djando Girls](https://github.com/Pedro-Souza/Biblioteca-TI)
-* [O tutorial de Python](http://turing.com.br/pydoc/2.7/tutorial/)
+* [Tutorial Djando Girls](https://tutorial.djangogirls.org/pt/)
+* [O tutorial de Python](https://docs.python.org/3.7/tutorial/)
 
 ### JavaScript
 * [Eloquente JavaScript](http://braziljs.github.io/eloquente-javascript/)
